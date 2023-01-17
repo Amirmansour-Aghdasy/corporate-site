@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CorporateSite/static/css/main.4d744508.css",
-    "main.js": "/CorporateSite/static/js/main.6e7cf28b.js",
+    "main.js": "/CorporateSite/static/js/main.d2c45555.js",
     "static/media/call-center.png": "/CorporateSite/static/media/call-center.1a75ac975120ad450d74.png",
     "static/media/clothing_production_1.jpg": "/CorporateSite/static/media/clothing_production_1.9052d29292f6514537fd.jpg",
     "static/media/IRANSansX-Regular.eot": "/CorporateSite/static/media/IRANSansX-Regular.fc7ec2fcda0835c174e1.eot",
@@ -20,10 +20,10 @@
     "static/media/cloth-1.jfif": "/CorporateSite/static/media/cloth-1.d8ea546d162f5afbc189.jfif",
     "index.html": "/CorporateSite/index.html",
     "main.4d744508.css.map": "/CorporateSite/static/css/main.4d744508.css.map",
-    "main.6e7cf28b.js.map": "/CorporateSite/static/js/main.6e7cf28b.js.map"
+    "main.d2c45555.js.map": "/CorporateSite/static/js/main.d2c45555.js.map"
   },
   "entrypoints": [
     "static/css/main.4d744508.css",
-    "static/js/main.6e7cf28b.js"
+    "static/js/main.d2c45555.js"
   ]
 }
