@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/CorporateSite/static/css/main.4d744508.css",
+    "main.js": "/CorporateSite/static/js/main.4824d4a0.js",
+    "static/media/call-center.png": "/CorporateSite/static/media/call-center.1a75ac975120ad450d74.png",
+    "static/media/clothing_production_1.jpg": "/CorporateSite/static/media/clothing_production_1.9052d29292f6514537fd.jpg",
+    "static/media/IRANSansX-Regular.eot": "/CorporateSite/static/media/IRANSansX-Regular.fc7ec2fcda0835c174e1.eot",
+    "static/media/IRANSansX-Regular.ttf": "/CorporateSite/static/media/IRANSansX-Regular.7e1ebe92673c4331f46e.ttf",
+    "static/media/IRANSansXFaNum-Regular.eot": "/CorporateSite/static/media/IRANSansXFaNum-Regular.884928f3f56b14c5077d.eot",
+    "static/media/IRANSansXFaNum-Regular.ttf": "/CorporateSite/static/media/IRANSansXFaNum-Regular.c9b8c902f4469b62409b.ttf",
+    "static/media/clothing_production_3.jpg": "/CorporateSite/static/media/clothing_production_3.944b4b3157f5586c8a06.jpg",
+    "static/media/IRANSansX-Regular.woff": "/CorporateSite/static/media/IRANSansX-Regular.1f1c32cb6cab339824f9.woff",
+    "static/media/IRANSansXFaNum-Regular.woff": "/CorporateSite/static/media/IRANSansXFaNum-Regular.7c285fd597c121025f34.woff",
+    "static/media/clothing_production_2.webp": "/CorporateSite/static/media/clothing_production_2.0d3d1c44fed4d796f309.webp",
+    "static/media/IRANSansX-Regular.woff2": "/CorporateSite/static/media/IRANSansX-Regular.015bf964f212c6527976.woff2",
+    "static/media/IRANSansXFaNum-Regular.woff2": "/CorporateSite/static/media/IRANSansXFaNum-Regular.888a8384283ac47fc1a3.woff2",
+    "static/media/cloth-2.jfif": "/CorporateSite/static/media/cloth-2.155be1316f7a796e9945.jfif",
+    "static/media/sewing-machine-2.jfif": "/CorporateSite/static/media/sewing-machine-2.6df395349a2f0b01ac4d.jfif",
+    "static/media/sewing-machine-1.jfif": "/CorporateSite/static/media/sewing-machine-1.6bc4ed8fcf8bbdd0562b.jfif",
+    "static/media/cloth-1.jfif": "/CorporateSite/static/media/cloth-1.d8ea546d162f5afbc189.jfif",
+    "index.html": "/CorporateSite/index.html",
+    "main.4d744508.css.map": "/CorporateSite/static/css/main.4d744508.css.map",
+    "main.4824d4a0.js.map": "/CorporateSite/static/js/main.4824d4a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d744508.css",
+    "static/js/main.4824d4a0.js"
+  ]
+}
